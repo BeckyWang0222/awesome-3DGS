@@ -2,16 +2,16 @@
 Gaussian调研（实时更新）
 
 ## 综述
-[中科院综述《Recent Advances in 3D Gaussian Splatting》](https://arxiv.org/abs/2403.11134)
-[南京大学最新3DGS综述](https://github.com/qqqqqqy0227/awesome-3DGS)
-[Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review](https://arxiv.org/html/2405.03417v1)
-[3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/abs/2407.17418)
+- [中科院综述《Recent Advances in 3D Gaussian Splatting》](https://arxiv.org/abs/2403.11134)
+- [南京大学最新3DGS综述](https://github.com/qqqqqqy0227/awesome-3DGS)
+- [Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review](https://arxiv.org/html/2405.03417v1)
+- [3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/abs/2407.17418)
 
-# Table of Contents
+# 目录
 
 ![pic of toc](https://files.lsmcloud.top/blogcae01165e2daaa4cd846db9dd64eb2e7.jpg)
 
-## 1️⃣ The proposal of 3D Gaussian Splatting
+## 1️⃣ The proposal of 3D Gaussian Splatting 三维高斯溅射的提出
 
 <details>
   <summary>Click to expand</summary>
@@ -20,9 +20,9 @@ Gaussian调研（实时更新）
   </ul>
 </details>
 
-## 2️⃣ Related Tasks
+## 2️⃣ Related Tasks 相关任务
 
-### Optimization of 3D Gaussian Splatting
+### Optimization of 3DGS 3DGS优化
 
 <details>
   <summary>Click to expand</summary>
@@ -82,7 +82,7 @@ Gaussian调研（实时更新）
 
 
 
-### Generalization and Sparse Views
+### Generalization and Sparse Views 泛化和稀疏视图
 
 <details>
   <summary>Click to expand</summary>
@@ -117,7 +117,7 @@ Gaussian调研（实时更新）
 
 
 
-### Applications of 3D Gaussian Splatting
+### Applications of 3D Gaussian Splatting 三维高斯溅射的应用
 
 <details>
   <summary>Click to expand</summary>
@@ -264,7 +264,7 @@ Gaussian调研（实时更新）
 </details>
 
 
-### Extensions of 3D Gaussian Splatting
+### Extensions of 3D Gaussian Splatting 三维高斯溅射的扩展
 
 <details>
   <summary>Click to expand</summary>
@@ -337,7 +337,7 @@ Gaussian调研（实时更新）
 
 
 
-## 3️⃣ Technical Classification
+## 3️⃣ Technical Classification 技术分类
 
 <details>
   <summary>Click to expand</summary>
