@@ -27,9 +27,9 @@ Gaussian调研（实时更新）
 <details>
   <summary>Click to expand</summary>
   <ul>
-    <li>Efficiency
+    <li>Efficiency 效率
       <ul>
-        <li>Storage Efficiency
+        <li>Storage Efficiency 存储效率
           <ul>
             <li><a href="#🎈scaffold-gs-structured-3d-gaussians-for-view-adaptive-rendering">Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering</a></li>
             <li><a href="#🎈lightgaussian-unbounded-3d-gaussian-compression-with-15x-reduction-and-200-fps">LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS</a></li>
@@ -45,13 +45,13 @@ Gaussian调研（实时更新）
             <li><a href="#🎈Reducing the Memory Footprint of 3D Gaussian Splatting">Reducing the Memory Footprint of 3D Gaussian Splatting</a></li>
           </ul>
         </li>
-        <li>Training Efficiency
+        <li>Training Efficiency 训练效率
           <ul>
             <li><a href="#🎈distwar-fast-differentiable-rendering-on-raster-based-rendering-pipelines">DISTWAR: Fast Differentiable Rendering on Raster-based Rendering Pipelines</a></li>
             <li><a href="#🎈I3DGS Improve 3D Gaussian Splatting from Multiple Dimensions">I3DGS Improve 3D Gaussian Splatting from Multiple Dimensions</a></li>
           </ul>
         </li>
-        <li>Rendering Efficiency
+        <li>Rendering Efficiency 渲染效率
           <ul>
             <li><a href="#🎈identifying-unnecessary-3d-gaussians-using-clustering-for-fast-rendering-of-3d-gaussian-splatting">Identifying Unnecessary 3D Gaussians using Clustering for Fast Rendering of 3D Gaussian Splatting</a></li>
             <li><a href="#🎈gscore-efficient-radiance-field-rendering-via-architectural-support-for-3d-gaussian-splatting">GSCore: Efficient Radiance Field Rendering via Architectural Support for 3D Gaussian Splatting</a></li>
@@ -59,7 +59,7 @@ Gaussian调研（实时更新）
         </li>
       </ul>
     </li>
-    <li>Photorealism
+    <li>Photorealism 照片真实性
       <ul>
         <li><a href="#🎈GS^3: Efficient Relighting with Triple Gaussian Splatting">GS^3: Efficient Relighting with Triple Gaussian Splatting</a></li>
         <li><a href="#🎈microfacet-models-for-refraction-through-rough-surfaces">Microfacet models for refraction through rough surfaces</a></li>
@@ -87,7 +87,7 @@ Gaussian调研（实时更新）
 <details>
   <summary>Click to expand</summary>
   <ul>
-    <li>Generalizable 3D Gaussian Splatting
+    <li>Generalizable 3D Gaussian Splatting 广义3D高斯溅射
       <ul>
         <li><a href="#🎈agg-amortized-generative-3d-gaussians-for-single-image-to-3d">AGG: Amortized Generative 3D Gaussians for Single Image to 3D</a></li>
         <li><a href="#🎈triplane-meets-gaussian-splatting-fast-and-generalizable-single-view-3d-reconstruction-with-transformers">Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers</a></li>
@@ -98,7 +98,7 @@ Gaussian调研（实时更新）
         <li><a href="#🎈FreeSplat Generalizable 3D Gaussian Splatting Towards Free-View Synthesis of Indoor Scenes">FreeSplat Generalizable 3D Gaussian Splatting Towards Free-View Synthesis of Indoor Scenes</a></li>
       </ul>
     </li>
-    <li>Sparse Views Setting
+    <li>Sparse Views Setting 稀疏视图设置
       <ul>
         <li><a href="#🎈touch-gs-visual-tactile-supervised-3d-gaussian-splatting">Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting</a></li>
         <li><a href="#🎈dngaussian-optimizing-sparse-view-3d-gaussian-radiance-fields-with-global-local-depth-normalization">DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization</a></li>
@@ -122,9 +122,9 @@ Gaussian调研（实时更新）
 <details>
   <summary>Click to expand</summary>
   <ul>
-    <li>Human Reconstruction
+    <li>Human Reconstruction 人物重建
       <ul>
-        <li>Body Reconstruction
+        <li>Body Reconstruction 身体重建
           <ul>
             <li><a href="#🎈ash-animatable-gaussian-splats-for-efficient-and-photoreal-human-rendering">ASH: Animatable Gaussian Splats for Efficient and Photoreal Human Rendering</a></li>
             <li><a href="#🎈animatable-gaussians-learning-pose-dependent-gaussian-maps-for-high-fidelity-human-avatar-modeling">Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling</a></li>
@@ -135,7 +135,7 @@ Gaussian调研（实时更新）
             <li><a href="#🎈hugs-human-gaussian-splats">HUGS: Human Gaussian Splats</a></li>
           </ul>
         </li>
-        <li>Head Reconstruction
+        <li>Head Reconstruction 头部重建
           <ul>
             <li><a href="#🎈gaussianavatars-photorealistic-head-avatars-with-rigged-3d-gaussians">GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians</a></li>
             <li><a href="#🎈gaussian-head-avatar-ultra-high-fidelity-head-avatar-via-dynamic-gaussians">Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians</a></li>
@@ -146,7 +146,7 @@ Gaussian调研（实时更新）
             <li><a href="#🎈TalkingGaussian Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting">TalkingGaussian Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting</a></li>
           </ul>
         </li>
-        <li>Others
+        <li>Others 其他
           <ul>
             <li><a href="#🎈gaussianhair-hair-modeling-and-rendering-with-light-aware-gaussians">GaussianHair: Hair Modeling and Rendering with Light-aware Gaussians</a></li>
             <li><a href="#🎈Relightable Gaussian Codec Avatars">🎈Relightable Gaussian Codec Avatars</a></li>
@@ -154,18 +154,18 @@ Gaussian调研（实时更新）
         </li>
       </ul>
     </li>
-    <li>Non-Rigid Object Reconstruction
+    <li>Non-Rigid Object Reconstruction 非刚体对象重建
       <ul>
         <li><a href="#🎈gart-gaussian-articulated-template-models">GART: Gaussian Articulated Template Models</a></li>
         <li><a href="#🎈neural-parametric-gaussians-for-monocular-non-rigid-object-reconstruction">Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction</a></li>
       </ul>
     </li>
-    <li>Artificial Intelligence-Generated Content (AIGC)
+    <li>Artificial Intelligence-Generated Content (AIGC) 人工智能生成内容（AIGC）
       <ul>
         <ul><li>
         <a herf="#🎈L3DG: Latent 3D Gaussian Diffusion">L3DG: Latent 3D Gaussian Diffusion</a>
         </li></ul>
-        <li>Text to 3D Objects
+        <li>Text to 3D Objects 文本到3D
           <ul>
             <li><a href="#🎈hyper-3dg-text-to-3d-gaussian-generation-via-hypergraph">Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph</a></li>
             <li><a href="#🎈text-to-3d-using-gaussian-splatting">Text-to-3D using Gaussian Splatting</a></li>
@@ -183,7 +183,7 @@ Gaussian调研（实时更新）
             <li><a href="#🎈luciddreamer-towards-high-fidelity-text-to-3d-generation-via-interval-score-matching">LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching</a></li>
           </ul>
         </li>
-        <li>Image to 3D Object
+        <li>Image to 3D Object 图像到3D
           <ul>
             <li><a href="#🎈dreamgaussian-generative-gaussian-splatting-for-efficient-3d-content-creation-1">DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation</a></li>
             <li><a href="#🎈fdgaussian-fast-gaussian-splatting-from-single-image-via-geometric-aware-diffusion-model">FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model</a></li>
@@ -191,7 +191,7 @@ Gaussian调研（实时更新）
             <li><a href="#🎈GSD View-Guided Gaussian Splatting Diffusion for 3D Reconstruction">GSD View-Guided Gaussian Splatting Diffusion for 3D Reconstruction</a></li>
           </ul>
         </li>
-        <li>Multi-Object and Scene Generation
+        <li>Multi-Object and Scene Generation 多物体和场景生成
           <ul>
             <li><a href="#🎈cg3d-compositional-generation-for-text-to-3d-via-gaussian-splatting">CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting</a></li>
             <li><a href="#🎈alpha-shapes-determining-3d-shape-complexity-across-morphologically-diverse-structures">Alpha shapes: determining 3D shape complexity across morphologically diverse structures</a></li>
@@ -204,7 +204,7 @@ Gaussian调研（实时更新）
             <li><a href="#🎈Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting">Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting</a></li>
           </ul>
         </li>
-        <li>4D Generation
+        <li>4D Generation 4D生成
           <ul>
             <li><a href="#🎈gaussianflow-splatting-gaussian-dynamics-for -4d-content-creation">GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation</a></li>
             <li><a href="#🎈mvdream-multi-view-diffusion-for-3d-generation">MVDream: Multi-view Diffusion for 3D Generation</a></li>
@@ -220,9 +220,9 @@ Gaussian调研（实时更新）
         </li>
       </ul>
     </li>
-    <li>Autonomous Driving
+    <li>Autonomous Driving 自动驾驶
       <ul>
-        <li>Autonomous Driving Scene Reconstruction
+        <li>Autonomous Driving Scene Reconstruction 自动驾驶场景重建
           <ul>
             <li><a href="#🎈street-gaussians-for-modeling-dynamic-urban-scenes">Street gaussians for modeling dynamic urban scenes</a></li>
             <li><a href="#🎈hugs-holistic-urban-3d-scene-understanding-via-gaussian-splatting">HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting</a></li>
@@ -230,7 +230,7 @@ Gaussian调研（实时更新）
             <li><a href="#🎈drivinggaussian-composite-gaussian-splatting-for-surrounding-dynamic-autonomous-driving-scenes">DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes</a></li>
           </ul>
         </li>
-        <li>Simultaneous Localization and Mapping (SLAM)
+        <li>Simultaneous Localization and Mapping (SLAM) 同步定位和映射（SLAM）
           <ul>
             <li><a href="#🎈high-fidelity-slam-using-gaussian-splatting-with-rendering-guided-densification-and-regularized-optimization">High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization</a></li>
             <li><a href="#🎈gs-slam-dense-visual-slam-with-3d-gaussian-splatting">GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting</a></li>
@@ -269,9 +269,9 @@ Gaussian调研（实时更新）
 <details>
   <summary>Click to expand</summary>
   <ul>
-    <li>Dynamic 3D Gaussian Splatting
+    <li>Dynamic 3D Gaussian Splatting 动态3DGS
       <ul>
-        <li>Multi-view Videos
+        <li>Multi-view Videos 多视角视频
           <ul>
             <li><a href="#🎈swags-sampling-windows-adaptively-for-dynamic-3d-gaussian-splatting">SWAGS: Sampling Windows Adaptively for Dynamic 3D Gaussian Splatting</a></li>
             <li><a href="#🎈dynamic-3d-gaussians-tracking-by-persistent-dynamic-view-synthesis">Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis</a></li>
@@ -279,7 +279,7 @@ Gaussian调研（实时更新）
             <li><a href="#🎈bridging-3d-gaussian-and-mesh-for-freeview-video-rendering">Bridging 3D Gaussian and Mesh for Freeview Video Rendering</a></li>
           </ul>
         </li>
-        <li>Monocular Video
+        <li>Monocular Video 单目视频
           <ul>
             <li><a href="#🎈deformable-3d-gaussians-for-high-fidelity-monocular-dynamic-scene-reconstruction">Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction</a></li>
             <li><a href="#🎈4d-gaussian-splatting-towards-efficient-novel-view-synthesis-for-dynamic-scenes">4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes</a></li>
@@ -296,7 +296,7 @@ Gaussian调研（实时更新）
             <li><a href="#🎈spacetime-gaussian-feature-splatting-for-real-time-dynamic-view-synthesis">Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis</a></li>
           </ul>
         </li>
-        <li>Will be categorized later
+        <li>Will be categorized later 稍后将进行分类
           <ul>
             <li><a href="#🎈3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis">3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis</a></li>
             <li><a href="#🎈Dynamic Gaussians Mesh Consistent Mesh Reconstruction from Monocular Videos">Dynamic Gaussians Mesh Consistent Mesh Reconstruction from Monocular Videos</a></li>
@@ -305,7 +305,7 @@ Gaussian调研（实时更新）
         </li>
       </ul>
     </li>
-    <li>Surface Representation
+    <li>Surface Representation 曲面表示法
       <ul>
         <li><a herf="#🎈Mesh-based Gaussian Splatting for Real-time Large-scale Deformation">Mesh-based Gaussian Splatting for Real-time Large-scale Deformation</a></li>
         <li><a href="#🎈scaffold-gs-structured-3d-gaussians-for-view-adaptive-rendering-2">Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering</a></li>
@@ -317,13 +317,13 @@ Gaussian调研（实时更新）
         <li><a>Segmenting 3D Gaussians with Dual Feature Fusion </a></li>
           </ul>
         </li>
-    <li>Editable 3D Gaussian Splatting
+    <li>Editable 3D Gaussian Splatting 3DGS编辑
       <ul>
       <li><a href="#🎈SketchDream: Sketch-based Text-to-3D Generation and Editing">Trim 3D Gaussian Splatting for Accurate Geometry Representation</a></li>
       <li><a>EVSplitting: An Efficient and Visually Consistent Splitting Algorithm for 3D Gaussian Splatting</a>
       </ul>
     </li>
-    <li>Physics Simulation
+    <li>Physics Simulation 物理模拟
           <ul>
             <li><a href="#🎈4d-gaussian-splatting-for-real-time-dynamic-scene-rendering-1">4D Gaussian Splatting for Real-Time Dynamic Scene Rendering</a></li>
             <li><a href="#🎈dynamic-3d-gaussians-tracking-by-persistent-dynamic-view-synthesis-2">Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis</a></li>
@@ -342,7 +342,7 @@ Gaussian调研（实时更新）
 <details>
   <summary>Click to expand</summary>
   <ul>
-    <li>Initialization
+    <li>Initialization 初始化
       <ul>
         <li><a href="#🎈relaxing-accurate-initialization-constraint-for-3d-gaussian-splatting">Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting</a></li>
         <li><a href="#🎈neural-parametric-gaussians-for-monocular-non-rigid-object-reconstruction-1">Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction</a></li>
@@ -353,7 +353,7 @@ Gaussian调研（实时更新）
         <li><a href="#🎈Dense 3D Gaussian Splatting Initialization for Sparse Image Data">Dense 3D Gaussian Splatting Initialization for Sparse Image Data</a></li>
       </ul>
     </li>
-    <li>Attribute Expansion
+    <li>Attribute Expansion 属性扩展
       <ul>
         <li><a href="#🎈neural-parametric-gaussians-for-monocular-non-rigid-object-reconstruction-2">Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction</a></li>
         <li><a href="#🎈language-embedded-3d-gaussians-for-open-vocabulary-scene-understanding-1">Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding</a></li>
@@ -383,9 +383,9 @@ Gaussian调研（实时更新）
         <li><a href="#🎈3d-gaussian-splatting-for-real-time-radiance-field-rendering-1">3D Gaussian Splatting for Real-Time Radiance Field Rendering</a></li>
       </ul>
     </li>
-    <li>Regularization
+    <li>Regularization 正则化
       <ul>
-        <li>3D Regularization
+        <li>3D Regularization 3D正则化
           <ul>
             <li><a href="#🎈cg3d-compositional-generation-for-text-to-3d-via-gaussian-splatting-1">CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting</a></li>
             <li><a href="#🎈dngaussian-optimizing-sparse-view-3d-gaussian-radiance-fields-with-global-local-depth-normalization-1">DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization</a></li>
@@ -400,7 +400,7 @@ Gaussian调研（实时更新）
             <li><a href="#🎈high-quality-surface-reconstruction-using-gaussian-surfels-1">High-quality Surface Reconstruction using Gaussian Surfels</a></li>
           </ul>
         </li>
-        <li>2D Regularization
+        <li>2D Regularization 2D正则化
           <ul>
             <li><a href="#🎈high-fidelity-slam-using-gaussian-splatting-with-rendering-guided-densification-and-regularized-optimization-1">High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization</a></li>
             <li><a href="#🎈re-imagine-the-negative-prompt-algorithm-transform-2d-diffusion-into-3d-alleviate-janus-problem-and-beyond">Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond</a></li>
@@ -412,7 +412,7 @@ Gaussian调研（实时更新）
             <li><a href="#🎈gvgen-text-to-3d-generation-with-volumetric-representation">GVGEN: Text-to-3D Generation with Volumetric Representation</a></li>
           </ul>
         </li>
-        <li>Pruning
+        <li>Pruning 剪枝
           <ul>
             <li><a href="#🎈lightgaussian-unbounded-3d-gaussian-compression-with-15x-reduction-and-200-fps-3">LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS</a></li>
             <li><a href="#🎈gauhuman-articulated-gaussian-splatting-from-monocular-human-videos-1">GauHuman: Articulated Gaussian Splatting from Monocular Human Videos</a></li>
@@ -425,7 +425,7 @@ Gaussian调研（实时更新）
         </li>
       </ul>
     </li>
-    <li>Post-Processing
+    <li>Post-Processing 后处理
       <ul>
         <li><a href="#🎈lgm-large-multi-view-gaussian-model-for-high-resolution-3d-content-creation-1">LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation</a></li>
         <li><a href="#🎈ggrt-towards-generalizable-3d-gaussians-without-pose-priors-in-real-time">GGRt: Towards Generalizable 3D Gaussians without Pose Priors in Real-Time</a></li>
@@ -437,9 +437,9 @@ Gaussian调研（实时更新）
         <li><a href="#🎈gaussian-opacity-fields-efficient-and-compact-surface-reconstruction-in-unbounded-scenes-1">Gaussian Opacity Fields: Efficient and Compact Surface Reconstruction in Unbounded Scenes</a></li>
       </ul>
     </li>
-    <li>Integration with Other Representations
+    <li>Integration with Other Representations 与其他陈述的集成
       <ul>
-        <li>Point Clouds
+        <li>Point Clouds 点云
           <ul>
             <li><a href="#🎈gaussnav-gaussian-splatting-for-visual-navigation-2">GaussNav: Gaussian Splatting for Visual Navigation</a></li>
           </ul>
@@ -450,7 +450,7 @@ Gaussian调研（实时更新）
             <li><a href="#🎈lgm-large-multi-view-gaussian-model-for-high-resolution-3d-content-creation-2">LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation</a></li>
           </ul>
         </li>
-        <li>Triplane
+        <li>Triplane 三平面
           <ul>
             <li><a href="#🎈triplane-meets-gaussian-splatting-fast-and-generalizable-single-view-3d-reconstruction-with-transformers-1">Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers</a></li>
             <li><a href="#🎈control4d-dynamic-portrait-editing-by-learning-4d-gan-from-2d-diffusion-based-editor">Control4d: Dynamic portrait editing by learning 4D GAN from 2D diffusion-based editor</a></li>
@@ -461,21 +461,21 @@ Gaussian调研（实时更新）
             <li><a href="#🎈compact-3d-scene-representation-via-self-organizing-gaussian-grids-1">Compact 3D Scene Representation via Self-Organizing Gaussian Grids</a></li>
           </ul>
         </li>
-        <li>Implicit Representation
+        <li>Implicit Representation 隐式表示
           <ul>
             <li><a href="#🎈3dgsr-implicit-surface-reconstruction-with-3d-gaussian-splatting-1">3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting</a></li>
             <li><a href="#🎈gsdf-3dgs-meets-sdf-for-improved-rendering-and-reconstruction-2">GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction</a></li>
             <li><a href="#🎈gaussian-splatting-with-nerf-based-color-and-opacity">Gaussian Splatting with NeRF-based Color and Opacity</a></li>
           </ul>
         </li>
-        <li>Gaussian Volumes
+        <li>Gaussian Volumes 高斯体积
           <ul>
             <li><a href="#🎈gvgen-text-to-3d-generation-with-volumetric-representation-2">GVGEN: Text-to-3D Generation with Volumetric Representation</a></li>
           </ul>
         </li>
       </ul>
     </li>
-    <li>Guidance by Additional Prior
+    <li>Guidance by Additional Prior 其他事前指导
       <ul>
         <li><a href="#🎈human-gaussian-splatting-real-time-rendering-of-animatable-avatars-1">Human Gaussian Splatting: Real-time Rendering of Animatable Avatars</a></li>
         <li><a href="#🎈hugs-human-gaussian-splats-1">HUGS: Human Gaussian Splats</a></li>
