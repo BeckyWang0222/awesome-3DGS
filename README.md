@@ -1,4 +1,11 @@
-# [3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/abs/2407.17418)
+# Gaussian-
+Gaussian调研（实时更新）
+
+## 综述
+[中科院综述《Recent Advances in 3D Gaussian Splatting》](https://arxiv.org/abs/2403.11134)
+[南京大学最新3DGS综述](https://github.com/qqqqqqy0227/awesome-3DGS)
+[Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review](https://arxiv.org/html/2405.03417v1)
+[3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/abs/2407.17418)
 
 # Table of Contents
 
